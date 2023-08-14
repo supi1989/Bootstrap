@@ -40,7 +40,7 @@
             <div class="col-2">
               <span class="material-symbols-outlined"> inbox </span>
               <span class="material-symbols-outlined"> help </span>
-              <span class="material-symbols-outlined"> settings </span>
+              <span class="material-symbols-outlined"> settings + </span>
             </div>
           </div>
           <div class="row">
